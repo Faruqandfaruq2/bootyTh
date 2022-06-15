@@ -1,0 +1,22 @@
+.navbar img{
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+}
+
+body{
+    background-color: #F2D1D1 !important;
+}
+
+.navbar li a {
+    color: brown !important;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.carousel-inner img {
+    height: 80vh;
+    width: 80px;
+
+}
